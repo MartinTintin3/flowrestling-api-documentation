@@ -1,4 +1,4 @@
-# FloArena-API Documentation
+# Event Bracket
 
 ## Base URL
 

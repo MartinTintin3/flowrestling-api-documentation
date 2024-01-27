@@ -1,4 +1,4 @@
-# FloArena-API Documentation
+# Wrestler
 
 ## Base URL
 

@@ -1,4 +1,4 @@
-# FloArena-API Documentation
+# Team Scores Groups
 
 ## Base URL
 
