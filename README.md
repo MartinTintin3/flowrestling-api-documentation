@@ -1,3 +1,3 @@
-[arena.flowrestling.org API](/arena)
+[arena.flowrestling.org API](/arena/README.md)
 
-[floarena-api.flowrestling.org API](/floarena-api)
+[floarena-api.flowrestling.org API](/floarena-api/README.md)
