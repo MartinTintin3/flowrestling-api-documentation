@@ -1,5 +1,3 @@
-Link to folder arena/arena.md
+[arena.flowrestling.org API](/arena/main.md)
 
-[arena](/arena/main.md)
-
-[floarena-api](/floarena-api/main.md)
+[floarena-api.flowrestling.org API](/floarena-api/main.md)
